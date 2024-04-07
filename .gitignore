@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Environment
+
+.vscode
+.clangd
+.clang-format
